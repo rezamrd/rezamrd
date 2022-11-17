@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Reza Moradijam
-- 👀 I’m interested in Web Desgining and Machine Learning.
-- 🌱 I’m currently studying computer engineering at Algonquin College
-- 📫 How to reach me reza.mrd@outlook.com
+-  Hi, I’m Reza Moradijam
+-  I’m interested in Web Desgining and Machine Learning.
+-  I’m currently studying computer engineering at Algonquin College
+-  How to reach me reza.mrd@outlook.com
 
 <!---
 rezamrd/rezamrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
