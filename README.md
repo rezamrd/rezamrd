@@ -1,4 +1,4 @@
--  Hi, I’m Reza Moradijam
+-  Hi, I’m Reza
 -  I’m currently studying computer engineering at Algonquin College
 -  How to reach me reza.mrd@outlook.com
 
