@@ -1,5 +1,5 @@
 -  Hi, I’m Reza
--  I develope webs and currently studying computer engineering at Algonquin College
+-  I'm a web developer and currently studying computer engineering at Algonquin College
 -  How to reach me reza.mrd@outlook.com
 
 <!---
